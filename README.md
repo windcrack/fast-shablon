@@ -1,19 +1,14 @@
-# fast-shablon
+# Fast-shablon
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Описание:
+1. Название: Сайт по добавлению и быстрому коипрованию шадлонов;
+2. Роль в проекте: верстка, дизайн, разаработка всех страниц и серверной части;
+3. Обязанности в проекте: full-stack;
+4. Технология:
+    - js;
+    - css3;
+    - vuejs;
+    - nodejs(express);
+5. Начало работы: Февраль 2022;
+6. Окончание работы: Еще в разаботке;
+7. Особенности: Свой проект.
