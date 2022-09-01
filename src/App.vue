@@ -25,6 +25,7 @@ body,
 #app {
   display: flex;
   font-family: "Roboto", sans-serif;
+  background-color: #dbe9eb;
 }
 #app {
   max-width: 1500px;
